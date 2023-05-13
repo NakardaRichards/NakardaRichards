@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello I am Nakarda 👋
+
+I am a Full stack developer who loves to explore new technologies.
 
 <!--
 **NakardaRichards/NakardaRichards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
