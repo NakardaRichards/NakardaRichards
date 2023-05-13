@@ -4,7 +4,7 @@
 
 I am a Full Stack developer who loves to explore new technologies.
 
-My website : http://nakarda.com/
+My website : [http://nakarda.com/](https://nakarda.com/)
 <!--
 **NakardaRichards/NakardaRichards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
