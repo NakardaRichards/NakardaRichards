@@ -1,10 +1,6 @@
 ### Hello I am Nakarda 👋
 
-<style>
-  body {
-    background-color: #RRGGBB;
-  }
-</style>
+
 
 I am a Full Stack developer who loves to explore new technologies.
 
