@@ -2,7 +2,7 @@
 
 
 
-I am a Full Stack developer who loves to explore new technologies.
+I am a Software Engineer who loves to explore new technologies.
 
 My website : https://nakarda.com/
 <!--
